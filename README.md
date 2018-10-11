@@ -1,3 +1,2 @@
-BlogReactReduxRouterForm
+Simple Blog posting app using React and Redux
 
-App to practice the above
